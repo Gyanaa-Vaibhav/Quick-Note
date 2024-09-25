@@ -2,6 +2,8 @@
 
 First project this is a clone/copy of any notes app saves me a hassle of opening another app as I just can scroll to the top and save my next ground braking idea or just the price of rentals in banglore
 
+### ***This Web App Uses Firebase as storage so if you see some extra notes don't panic it's just other people***
+
 ### How to Replicate for yourself
 
 1. Fork and clone the repo or download it
@@ -19,4 +21,4 @@ First project this is a clone/copy of any notes app saves me a hassle of opening
    
    <img width="800" alt="Screenshot 2024-09-24 at 3 05 57 PM" src="https://github.com/user-attachments/assets/c39346d7-18b2-4c64-9e35-e96d09962234">
 
-### ***This Web App Uses Firebase as storage so if you see some extra notes don't panic it's just other people***
+
