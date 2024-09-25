@@ -4,6 +4,8 @@ First project this is a clone/copy of any notes app saves me a hassle of opening
 
 ### ***This Web App Uses Firebase as storage so if you see some extra notes don't panic it's just other people***
 
+### Live link [Quick Note](https://gyanaa-vaibhav.github.io/Quick-Note/)
+
 ### How to Replicate for yourself
 
 1. Fork and clone the repo or download it
